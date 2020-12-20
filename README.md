@@ -5,10 +5,11 @@
 * [Menu Bar] [Menu_Bar]
 * [Libraries Used] [Libraries_used]
 * [Data Strucures Used] [DataStructs_used]
+* [Further Improvements][Further_improvements]
 * [Credits] [Credit]
 
 ## How to play
-The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess.  
+The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess which include enpassent, castling, and promotion.  
 
 ## Features
 * Title Bar
@@ -19,8 +20,15 @@ The user interface is pretty intuitive. We just click the pieces and move them t
   * Load Game
 * Highlight Features
 
+
 ## Menu Bar
 * File
+* Theme
+
+###File
+Using this option we can save, load, or create a new game. The save feature uses a .txt file to save all the moves that have been played in the game with the date and time stamp. The load feature asks the user for a .txt file and opens the game where the players have left off.
+
+![File feature][file]
 
 ## Libraries Used
 * Java Swing
@@ -36,3 +44,5 @@ The user interface is pretty intuitive. We just click the pieces and move them t
 ## Credits
 * Me
 * Lcp17c
+
+[file]: "./pics/File.png"
