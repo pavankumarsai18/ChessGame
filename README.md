@@ -45,4 +45,4 @@ Using this option we can save, load, or create a new game. The save feature uses
 * Me
 * Lcp17c
 
-[file]: "./pics/File.png"
+[file]: "https://github.com/pavankumarsai18/ChessGame.git/pics/File.png"
