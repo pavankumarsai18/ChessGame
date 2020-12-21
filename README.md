@@ -8,10 +8,10 @@
 * [Further Improvements][Further_improvements]
 * [Credits] [Credit]
 
-## How to play {: #how-to-play}
+## How to play {:#how-to-play}
 The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess which include enpassent, castling, and promotion.  
 
-## Features {: #features}
+## Features {:#features}
 * Title Bar
 * Menu Bar
   * Change Theme
@@ -47,7 +47,9 @@ Using this option we can change the background of the chess board. Users can pic
 
 ![Green Theme](/pics/GreenTheme.png)
 
-## Rules Implemented {: #rules_implemented}
+## Rules Implemented {:#rules_implemented}
+This game uses standard chess rules whih include castling, enpassent, and promotion.
+
 
 ## Libraries Used
 * Java Swing
