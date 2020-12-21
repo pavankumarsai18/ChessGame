@@ -32,16 +32,17 @@ Using this option we can save, load, or create a new game. The save feature uses
 
 ### Theme
 Using this option we can change the background of the chess board. Users can pick from three options Blue, Brown, and Green and play the game according to their preference.
+
 ![ThemeImage](/pics/Theme.png)
 
 #### Blue Theme
-![BlueTheme](/pics/"Blue theme.png")
+![BlueTheme](/pics/Blue theme.png)
 
 #### Brown Theme
-![BrownTheme](/pics/"Brown theme.png")
+![BrownTheme](/pics/Brown theme.png)
 
 #### Green Theme
-![Green Theme](/pics/"Green theme.png")
+![Green Theme](/pics/Green theme.png)
 
 ## Libraries Used
 * Java Swing
