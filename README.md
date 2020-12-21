@@ -64,6 +64,9 @@ This game uses standard chess rules whih include castling, enpassent, and promot
 * HashMaps
 * Arrays
 
+## Further Improvements
+The next version could include a multiplayer game which requires the use of socket programming. Additional features such as backtracking and hints could also be implemented.
+
 ## Credits
 * Me
 * Lcp17c
