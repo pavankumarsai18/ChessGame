@@ -9,7 +9,9 @@
 * [Credits](#credits)
 
 ## How to play
-The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess which include enpassent, castling, and promotion.  
+The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess which include enpassent, castling, and promotion. 
+
+![HighlightImage](/pics/Highlight.png) 
 
 ## Features
 * Title Bar
@@ -47,7 +49,7 @@ Using this option we can change the background of the chess board. Users can pic
 
 ![Green Theme](/pics/GreenTheme.png)
 
-## Rules Implemented {:#rules_implemented}
+## Rules Implemented
 This game uses standard chess rules whih include castling, enpassent, and promotion.
 
 
