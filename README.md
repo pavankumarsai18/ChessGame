@@ -1,17 +1,17 @@
 # Chess Game
 * [How to play](#how-to-play)
 * [Features](#features)
-* [Rules Implemented](#rules_implemented)
-* [Menu Bar] [Menu_Bar]
-* [Libraries Used] [Libraries_used]
-* [Data Strucures Used] [DataStructs_used]
-* [Further Improvements][Further_improvements]
-* [Credits] [Credit]
+* [Rules Implemented](#rules-implemented)
+* [Menu Bar](#menu-bar)
+* [Libraries Used](#libraries-used)
+* [Data Structures Used](#data-structures-used)
+* [Further Improvements](#further-improvements)
+* [Credits](#credits)
 
-## How to play {:#how-to-play}
+## How to play
 The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess which include enpassent, castling, and promotion.  
 
-## Features {:#features}
+## Features
 * Title Bar
 * Menu Bar
   * Change Theme
