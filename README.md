@@ -1,7 +1,7 @@
 # Chess Game
-* [How to play](how-to-play)
-* [Features](features)
-* [Rules Implemented](rules_implemented)
+* [How to play](#how-to-play)
+* [Features](#features)
+* [Rules Implemented](#rules_implemented)
 * [Menu Bar] [Menu_Bar]
 * [Libraries Used] [Libraries_used]
 * [Data Strucures Used] [DataStructs_used]
