@@ -28,7 +28,20 @@ The user interface is pretty intuitive. We just click the pieces and move them t
 ### File
 Using this option we can save, load, or create a new game. The save feature uses a .txt file to save all the moves that have been played in the game with the date and time stamp. The load feature asks the user for a .txt file and opens the game where the players have left off.
 
-![FileImage](/pics/File.png)
+![FileImage][FileImgPath]
+
+### Theme
+Using this option we can change the background of the chess board. Users can pick from three options Blue, Brown, and Green and play the game according to their preference.
+![ThemeImage][ThemeImgPath]
+
+#### Blue Theme
+![BlueTheme][BlueThemePath]
+
+#### Brown Theme
+![BrownTheme][BrownThemePath]
+
+#### Green Theme
+![Green Theme][GreenThemePath]
 
 ## Libraries Used
 * Java Swing
@@ -44,4 +57,8 @@ Using this option we can save, load, or create a new game. The save feature uses
 ## Credits
 * Me
 * Lcp17c
-
+[FileImgPath]: /pics/File.png
+[ThemeImgPath]: /pics/Theme.png
+[BlueThemePath]: /pics/"Blue theme.png"
+[BrownThemePath]: /pics/"Brown theme.png"
+[GreenThemePath]: /pics/"Green theme.png"
