@@ -25,10 +25,10 @@ The user interface is pretty intuitive. We just click the pieces and move them t
 * File
 * Theme
 
-###File
+### File
 Using this option we can save, load, or create a new game. The save feature uses a .txt file to save all the moves that have been played in the game with the date and time stamp. The load feature asks the user for a .txt file and opens the game where the players have left off.
 
-![File feature][file]
+![File feature][file_img]
 
 ## Libraries Used
 * Java Swing
@@ -45,4 +45,4 @@ Using this option we can save, load, or create a new game. The save feature uses
 * Me
 * Lcp17c
 
-[file]: "https://github.com/pavankumarsai18/ChessGame.git/pics/File.png"
+[file_img]: "https://github.com/pavankumarsai18/ChessGame.git/pics/File.png"
