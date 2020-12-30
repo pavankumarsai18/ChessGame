@@ -1,4 +1,5 @@
 # Chess Game
+* [How to run](#how-to-run)
 * [How to play](#how-to-play)
 * [Features](#features)
 * [Rules Implemented](#rules-implemented)
@@ -7,6 +8,15 @@
 * [Data Structures Used](#data-structures-used)
 * [Further Improvements](#further-improvements)
 * [Credits](#credits)
+
+## How to run
+1. Download the code.
+2. Go to 'Game' folder.
+3. To start the game please run the following command in terminal.
+
+   **javac main.java**
+   **java main**
+4. You can enjoy the game now!!!
 
 ## How to play
 The user interface is pretty intuitive. We just click the pieces and move them to the new highlighted squares. This implementation uses the normal rules of chess which include enpassent, castling, and promotion. 
