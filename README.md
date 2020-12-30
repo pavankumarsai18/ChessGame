@@ -15,6 +15,7 @@
 3. To start the game please run the following command in terminal.
 
    **javac main.java**
+   
    **java main**
 4. You can enjoy the game now!!!
 
